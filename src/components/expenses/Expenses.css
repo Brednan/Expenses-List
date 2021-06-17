@@ -1,0 +1,15 @@
+.container{
+    background-color: #292929;
+    width: 1600px;
+    position: relative;
+    left: 160px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 15px;
+    box-shadow: 1px 4px 4px black;
+    top: 100px;
+}
+.errorMSG{
+    position: relative;
+    left: 705px;
+    color: white;
+}

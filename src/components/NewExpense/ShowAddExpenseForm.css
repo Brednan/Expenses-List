@@ -1,0 +1,15 @@
+.btn{
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #7400aa;
+    background-color: #7400aa;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+}
+.cont{
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
